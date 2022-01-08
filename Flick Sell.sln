@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flick Sell", "Flick Sell\Flick Sell.csproj", "{BBFF7CF7-D41C-4AE5-B987-44E688B04613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFF7CF7-D41C-4AE5-B987-44E688B04613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFF7CF7-D41C-4AE5-B987-44E688B04613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFF7CF7-D41C-4AE5-B987-44E688B04613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFF7CF7-D41C-4AE5-B987-44E688B04613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

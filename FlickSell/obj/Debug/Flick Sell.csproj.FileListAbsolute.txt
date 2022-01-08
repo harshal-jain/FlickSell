@@ -1,0 +1,59 @@
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Flick Sell.dll.config
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Flick Sell.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Flick Sell.pdb
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Antlr3.Runtime.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\EntityFramework.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\EntityFramework.SqlServer.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Newtonsoft.Json.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Owin.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Helpers.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Mvc.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Optimization.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Razor.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.Deployment.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.Razor.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\WebGrease.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Helpers.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Mvc.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Optimization.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.Razor.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.Deployment.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\System.Web.WebPages.Razor.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Newtonsoft.Json.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Antlr3.Runtime.pdb
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\EntityFramework.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\EntityFramework.SqlServer.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\obj\Debug\Flick Sell.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\obj\Debug\Flick Sell.pdb
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\PagedList.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\PagedList.Mvc.dll
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\PagedList.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\bin\PagedList.Mvc.xml
+D:\MVC PROJECT\Flick Sell\Flick Sell\obj\Debug\Flick Sell.csprojResolveAssemblyReference.cache
